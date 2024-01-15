@@ -12,17 +12,7 @@
 *  + Si el número es divisible por 5, imprimir "Buzz".
 *  + Si el número es divisible por 3 y 5, imprimir "FizzBuzz".
 *  + Si el número no es divisible por 3 ni por 5, imprimir el número mismo
- */
+*/
 ```
 
 
-```
-/*
- * Escribe un programa que muestre por consola (con un print) los
- * números de 1 a 100 (ambos incluidos y con un salto de línea entre
- * cada impresión), sustituyendo los siguientes:
- * - Múltiplos de 3 por la palabra "fizz".
- * - Múltiplos de 5 por la palabra "buzz".
- * - Múltiplos de 3 y de 5 a la vez por la palabra "fizzbuzz".
- */
-```
