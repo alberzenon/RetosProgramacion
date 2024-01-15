@@ -1,21 +1,30 @@
-# RetosProgramacion
-Portafolio de programación con retos
+# Retos de programación semanales 2024
 
-Este portafolio muestra mis habilidades de programación a través de una serie de retos que he completado. Los retos están organizados por área de programación, como programación web, programación móvil y programación de juegos.
-Retos de programación web
+### Proyecto de retos semanales para practicar lógica de programación
 
-    Reto 1: Crea un sitio web simple
-    Reto 2: Crea una aplicación web con una base de datos
-    Reto 3: Crea una aplicación web con una API
+## Información
 
-Retos de programación móvil
+**Objetivo:** Publicar un nuevo reto de programación cada semana para practicar lógica de programación.
 
-    Reto 1: Crea una aplicación móvil simple
-    Reto 2: Crea una aplicación móvil con una base de datos
-    Reto 3: Crea una aplicación móvil con una API
+**Frecuencia:**
 
-Retos de programación de juegos
+* Un nuevo reto por semana, en la medida de lo posible.
+* Dependiendo de la carga de trabajo, algunos plazos podrían extenderse.
 
-    Reto 1: Crea un juego simple
-    Reto 2: Crea un juego con gráficos 2D
-    Reto 3: Crea un juego con gráficos 3D
+**Disponibilidad:**
+
+* Los retos se publicarán en mis tiempos libres.
+
+## Contenido
+
+* **Descripción:** Este proyecto tiene como objetivo publicar un nuevo reto de programación cada semana para que los participantes puedan practicar y mejorar sus habilidades en lógica de programación. Los retos se publicarán en mis tiempos libres, por lo que la frecuencia de publicación puede variar.
+
+* **Enlace a los retos:** [](URL)
+
+* **Tecnologías:** Los retos se enfocarán en diferentes lenguajes de programación, como Python, Java, JavaScript, C++, etc.
+
+* **Contribuciones:** Se aceptan contribuciones de la comunidad. Para contribuir, puedes crear un nuevo reto o corregir errores en los retos existentes. Para más información, consulta la sección de [Contribuciones](URL).
+
+* **Contacto:** Si tienes dudas o comentarios, puedes contactarme a través de [alberzenon@gmail.com](email) o [](URL).
+
+## ¡Participa y disfruta de los retos!
